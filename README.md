@@ -1,0 +1,2 @@
+# huffman
+Miniproject Huffman coding
